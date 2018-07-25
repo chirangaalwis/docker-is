@@ -1,5 +1,5 @@
 # Dockerfile for WSO2 Identity Server Analytics #
-This section defines the step-by-step instructions to build the Docker image for WSO2 Identity Server Analytics 5.6.0.
+This section defines the step-by-step instructions to build a CentOS Linux based Docker image for WSO2 Identity Server Analytics 5.6.0.
 
 ## Prerequisites
 * [Docker](https://www.docker.com/get-docker) v17.09.0 or above
@@ -76,3 +76,4 @@ wso2is-analytics:5.6.0
 * [Docker build command reference](https://docs.docker.com/engine/reference/commandline/build/)
 * [Docker run command reference](https://docs.docker.com/engine/reference/run/)
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
+
